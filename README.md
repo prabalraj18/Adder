@@ -18,11 +18,10 @@ Parallel Prefix Adder
 
 
 # Running the Adders 
-## Prerequisites
 Before running the adders, ensure that you have installed:
 
-Icarus Verilog (for compilation and simulation) \\
-GTKWave (for waveform analysis)
+-Icarus Verilog (for compilation and simulation) 
+-GTKWave (for waveform analysis)
 
 If not installed, follow the setup instructions from the [Verilog-env-setup Repository](https://github.com/prabalraj18/Verilog-env-setup) repository.
 
