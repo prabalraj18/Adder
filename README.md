@@ -15,3 +15,14 @@ Parallel Prefix Adder
 1. Brent-Kung adder
 2. Kogge-Stone adder
 3. Skalanksy adder
+
+
+# Running the Adders 
+## Prerequisites
+Before running the adders, ensure that you have installed:
+
+Icarus Verilog (for compilation and simulation)
+GTKWave (for waveform analysis)
+
+If not installed, follow the setup instructions from the Verilog-env-setup repository.
+
